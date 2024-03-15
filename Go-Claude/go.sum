@@ -1,0 +1,4 @@
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/liushuangls/go-anthropic v1.4.0 h1:nVVNpoZpzJnjs3PWq9ys2pbJCQI06HUWjdrWK06Dn/0=
+github.com/liushuangls/go-anthropic v1.4.0/go.mod h1:sUg9f/ZHoia6Nc8zoNvT7+KavHwMq2eL3VY1Mgf6I7Y=
